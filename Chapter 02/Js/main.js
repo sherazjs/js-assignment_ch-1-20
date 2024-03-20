@@ -1,4 +1,4 @@
-var username = "Talha Ansari";
+var username = "M sheraz";
 alert(username);
 var age = "26";
 alert(age);
